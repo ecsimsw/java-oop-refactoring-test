@@ -39,6 +39,6 @@
   - 테스트 코드 짜는 연습
 
 
-// TODO :: 변수명 질문하기, section1, section2 이런식으로 변수명을 쓰기도 하나
-// TODO :: Dao에서 배열로 save, delete해도 될까?
-// sectionDao.save(sectionsToDelete);
+// TODO :: 변수명 질문하기, section1, section2 이런식으로 변수명을 쓰기도 하나   
+// TODO :: Dao에서 배열로 save, delete해도 될까?    
+// sectionDao.save(sectionsToDelete);    
